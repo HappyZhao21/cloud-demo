@@ -12,12 +12,14 @@
         <module name="xq02-userservice" />
         <module name="xq03-orderservice" />
         <module name="xq04-eureka" />
-        <module name="xq05-ribbon" />
+        <module name="xq06-hystrix" />
+        <module name="xq07-hystrix-dashboard" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sp01-commons" target="1.8" />
       <module name="xq01" target="1.8" />
+      <module name="xq05-ribbon" target="1.8" />
       <module name="xqcommon" target="1.8" />
     </bytecodeTargetLevel>
   </component>

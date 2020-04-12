@@ -11,11 +11,14 @@
         <option value="$PROJECT_DIR$/xq03-orderservice/pom.xml" />
         <option value="$PROJECT_DIR$/xq04-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/xq05-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/xq06-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/xq07-hystrix-dashboard/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/xq01/pom.xml" />
+        <option value="$PROJECT_DIR$/xq05-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/xqcommon/pom.xml" />
       </set>
     </option>
