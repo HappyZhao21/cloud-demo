@@ -11,6 +11,8 @@
         <module name="xq01-service" />
         <module name="xq02-userservice" />
         <module name="xq03-orderservice" />
+        <module name="xq04-eureka" />
+        <module name="xq05-ribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
