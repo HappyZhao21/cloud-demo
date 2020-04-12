@@ -17,18 +17,4 @@
     <packaging>pom</packaging>
 
 
-
-
-    <modules>
-        <module>xq01</module>
-        <module>xqcommon</module>
-    </modules>
-
-
-
-
-
-
-
-
 </project>

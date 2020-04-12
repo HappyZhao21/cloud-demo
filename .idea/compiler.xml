@@ -10,6 +10,7 @@
         <module name="xq-common" />
         <module name="xq01-service" />
         <module name="xq02-userservice" />
+        <module name="xq03-orderservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
