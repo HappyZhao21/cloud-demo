@@ -11,5 +11,8 @@
         <module name="xqcommon" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sp01-commons" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
