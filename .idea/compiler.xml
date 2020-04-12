@@ -7,12 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="xq01" />
-        <module name="xqcommon" />
+        <module name="xq-common" />
+        <module name="xq01-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sp01-commons" target="1.8" />
+      <module name="xq01" target="1.8" />
+      <module name="xqcommon" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

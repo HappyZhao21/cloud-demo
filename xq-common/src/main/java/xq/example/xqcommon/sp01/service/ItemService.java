@@ -1,6 +1,7 @@
 package xq.example.xqcommon.sp01.service;
 
-import cn.tedu.sp01.pojo.Item;
+
+import xq.example.xqcommon.sp01.pojo.Item;
 
 import java.util.List;
 
