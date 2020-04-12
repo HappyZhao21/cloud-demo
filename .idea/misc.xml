@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/xq01-service/pom.xml" />
         <option value="$PROJECT_DIR$/xq-common/pom.xml" />
+        <option value="$PROJECT_DIR$/xq02-userservice/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

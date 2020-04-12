@@ -1,14 +1,13 @@
-package xq.example.xqcommon;
-
+package xq.example.xq02userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class XqCommonApplication {
+public class Xq02UserserviceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(XqCommonApplication.class, args);
+        SpringApplication.run(Xq02UserserviceApplication.class, args);
     }
 
 }

@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="xq-common" />
         <module name="xq01-service" />
+        <module name="xq02-userservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

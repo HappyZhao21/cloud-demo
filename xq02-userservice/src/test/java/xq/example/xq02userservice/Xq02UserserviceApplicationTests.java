@@ -1,11 +1,10 @@
-package xq.example.xqcommon;
+package xq.example.xq02userservice;
 
-
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class XqCommonApplicationTests {
+class Xq02UserserviceApplicationTests {
 
     @Test
     void contextLoads() {
